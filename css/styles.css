@@ -10991,6 +10991,11 @@ textarea.form-control-lg {
   .masthead .masthead-avatar {
     width: 15rem;
   }
+
+  .masthead-avatar {
+    width: 30rem !important;
+  }
+
   
   @media (min-width: 992px) {
     .masthead {
